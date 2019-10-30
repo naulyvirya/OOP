@@ -8,7 +8,7 @@ class Cheetah
 
     public function memburu($var, $var2)
     {
-        return "Cheetah Memburu " . $var . ' dan ' . $var2;
+        return "Cheetah Memburu <b>$var dan $var2</b>";
     }
     public function berlari($var, $var2)
     {
